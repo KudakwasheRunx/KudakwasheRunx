@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kudakwashe Rundinde
+- 👋 Hi, I’m @KudakwasheRunx
 - 👀 I’m interested in Articial intelligence and Expert systmes,Application development and Data science
 - 🌱 I’m currently learning Data Science and systems
 - 💞️ I’m looking to collaborate on Application development and machine learning
